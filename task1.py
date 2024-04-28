@@ -34,7 +34,7 @@ print(f"Podíl smluv s příznakem ve skupině B v prvním období: {p1_B:.4f}")
 print(f"Podíl smluv s příznakem ve skupině B ve druhém období: {p2_B:.4f}")
 print(f"Kombinovaný podíl pro skupinu B: {p_combined_B:.4f}")
 print(f"Testové kritérium: {U_B:.4f}")
-print("Kritická hodnota pro jednostranný test:", critical_value)
+print(f"Kritická hodnota pro jednostranný test: {critical_value:.4f}")
 print(f"-VYHODNOCENÍ-")
 
 # Ověření použitelnosti testu
